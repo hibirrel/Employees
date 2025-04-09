@@ -1,0 +1,7 @@
+__pycache__/`r`ndb.sqlite3`r`n*.pyc`r`n.env`r`nmedia/`r`nstatic/ 
+__pycache__/
+db.sqlite3
+*.pyc
+.env
+media/
+static/
